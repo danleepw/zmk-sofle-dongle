@@ -90,10 +90,10 @@
             bindings = <&kp BACKSPACE>;
         };
 
-        combo_shift {
+        combo_caps_word {
             timeout-ms = <50>;
             key-positions = <57 59>;
-            bindings = <&kp LEFT_SHIFT>;
+            bindings = <&caps_word>;
         };
     };   
 
