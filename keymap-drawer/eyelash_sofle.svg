@@ -565,8 +565,8 @@ rect.held, rect.combo.held {
 <g transform="translate(389, 294) rotate(30.0)" class="key keypos-57">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#Guide">
-<text x="0" y="-4" class="key tap layer-activator">Guide</text>
+<a href="#Navig">
+<text x="0" y="-4" class="key tap layer-activator">Navig</text>
 </a></g>
 <g transform="translate(462, 91)" class="key enter keypos-58">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key enter side"/>
@@ -1314,8 +1314,8 @@ rect.held, rect.combo.held {
 </g>
 </g>
 </g>
-<g transform="translate(40, 1165)" class="layer-Guide">
-<text x="0" y="28" class="label" id="Guide">Guide:</text>
+<g transform="translate(40, 1165)" class="layer-Navig">
+<text x="0" y="28" class="label" id="Navig">Navig:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key none keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key none side"/>
